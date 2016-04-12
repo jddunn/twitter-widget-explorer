@@ -108,7 +108,6 @@ if ($(document).height() > $(window).height()) {
 
 function populateTplTimer(tweets) {
    setInterval(function(){  
-
    populateTpl(tweets)}, 3000);
 }
 
@@ -135,5 +134,4 @@ function populateTpl(tweets){
   }
   html += '</ul>';
   element.innerHTML = html;
-
 }

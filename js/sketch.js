@@ -1,20 +1,19 @@
-
 function message(){
-       $("#loadingAnimation").remove();
-
+    $("#loadingAnimation").remove();
 }
 
 
 function setup(){
-	console.log("yea");
-	
+	// console.log("yea");
     setTimeout(message,2000);
+    setTimeout(reload,60000);
 }
 
-
+function reload () {
+	location.reload();
+}
 
 function draw () {
 	$("body").css("overflow", "hidden");
-
-		$("body").css("overflow", "auto");
+	$("body").css("overflow", "auto");
 }
