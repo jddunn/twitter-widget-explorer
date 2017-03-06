@@ -3,7 +3,7 @@ A tool that puts tweets from a Twitter widget on display in a clear, stylized wa
 
 The demo included is for seeing Twitter posts from users who "got hacked" (Or otherwise included those exact words in their post). Demo site is at: http://jddunn.github.io/who-got-hacked-on-twitter/
 
-Twitter is arguably the best platform for getting data. It has a massive scale and audience that's generally tech-savvy, and it is the most immediate source of news and sharing out there. So how can we use Twitter for our benefit in research?
+Twitter might be one of the best platofms for getting real-time data. It has a massive scale and audience that's generally tech-savvy, and it is the most immediate source of news and sharing out there. So how can we use Twitter for our benefit in research?
 
 I developed this while trying to think of a way to gather some practical, direct research on how prevalent invasions of digital privacy, aka "hacking" is in today's connected society. I thought, what better way than to mine Twitter? Set your widget ID and put the page on display, and study what the people have to say real-time in a visually appealing, convenient manner. 
 
